@@ -1,0 +1,28 @@
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\bin\Debug\net6.0-windows\Produkcja Pociagow.exe
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\bin\Debug\net6.0-windows\Produkcja Pociagow.deps.json
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\bin\Debug\net6.0-windows\Produkcja Pociagow.runtimeconfig.json
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\bin\Debug\net6.0-windows\Produkcja Pociagow.dll
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\bin\Debug\net6.0-windows\Produkcja Pociagow.pdb
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\CzasProdukcji.g.cs
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Czynnosci.g.cs
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Kategorie.g.cs
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\StronaStartowa.g.cs
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow_MarkupCompile.cache
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow_MarkupCompile.lref
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\CzasProdukcji.baml
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Czynnosci.baml
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Kategorie.baml
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\StronaStartowa.baml
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.g.resources
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.AssemblyInfoInputs.cache
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.AssemblyInfo.cs
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.csproj.CoreCompileInputs.cache
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.dll
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\refint\Produkcja Pociagow.dll
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.pdb
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\Produkcja Pociagow.genruntimeconfig.cache
+C:\Users\szymo\OneDrive\Desktop\Nowy folder\Produkcja Pociagow\obj\Debug\net6.0-windows\ref\Produkcja Pociagow.dll
